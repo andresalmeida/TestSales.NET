@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888B09-CCA1-40E1-8E34-0A78036FB003}|DepartmentService\\DepartmentService.csproj|c:\\users\\asus\\onedrive\\escritorio\\testsales2024v6\\testsales2024\\departmentservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E1888B09-CCA1-40E1-8E34-0A78036FB003}|DepartmentService\\DepartmentService.csproj|solutionrelative:departmentservice\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0184150D-9B88-4218-AF00-3E8DC8835C68}|BLL\\BLL.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\bll\\departamentoslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0184150D-9B88-4218-AF00-3E8DC8835C68}|BLL\\BLL.csproj|solutionrelative:bll\\departamentoslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1888B09-CCA1-40E1-8E34-0A78036FB003}|DepartmentService\\DepartmentService.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\departmentservice\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1888B09-CCA1-40E1-8E34-0A78036FB003}|DepartmentService\\DepartmentService.csproj|solutionrelative:departmentservice\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09519F8F-DAFC-4920-AB4A-1B13AFAC68A3}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\dal\\entities\\sales_dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09519F8F-DAFC-4920-AB4A-1B13AFAC68A3}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\sales_dbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875B1079-B5A4-4522-95DD-B273ADECA184}|Entities\\Entities.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\entities\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875B1079-B5A4-4522-95DD-B273ADECA184}|Entities\\Entities.csproj|solutionrelative:entities\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09519F8F-DAFC-4920-AB4A-1B13AFAC68A3}|DAL\\DAL.csproj|C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\dal\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09519F8F-DAFC-4920-AB4A-1B13AFAC68A3}|DAL\\DAL.csproj|solutionrelative:dal\\repositoryfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sales_DBEntities.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DAL\\Entities\\Sales_DBEntities.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Sales_DBEntities.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DAL\\Entities\\Sales_DBEntities.cs",
+              "RelativeToolTip": "DAL\\Entities\\Sales_DBEntities.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:50:41.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DepartmentService\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "DepartmentService\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DepartmentService\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "DepartmentService\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:43:34.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DepartmentService\\Web.config",
+              "RelativeDocumentMoniker": "DepartmentService\\Web.config",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DepartmentService\\Web.config",
+              "RelativeToolTip": "DepartmentService\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-09T17:44:11.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentosLogic.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\BLL\\DepartamentosLogic.cs",
+              "RelativeDocumentMoniker": "BLL\\DepartamentosLogic.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\BLL\\DepartamentosLogic.cs",
+              "RelativeToolTip": "BLL\\DepartamentosLogic.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:40:21.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Departamentos.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\Entities\\Departamentos.cs",
+              "RelativeDocumentMoniker": "Entities\\Departamentos.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\Entities\\Departamentos.cs",
+              "RelativeToolTip": "Entities\\Departamentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:41:19.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DAL\\RepositoryFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\RepositoryFactory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Escritorio\\TestSales2024V6\\TestSales2024\\DAL\\RepositoryFactory.cs",
+              "RelativeToolTip": "DAL\\RepositoryFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:45:09.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
